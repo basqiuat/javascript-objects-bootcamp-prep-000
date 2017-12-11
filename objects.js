@@ -1,4 +1,4 @@
-var objects = {playlist}
+var objects = {playlists}
 var songTitle = { [objects]: 'songTitle' }
 var artistName = { [objects]: 'artistName' }
 var playlist = {artistName: songTitle}
