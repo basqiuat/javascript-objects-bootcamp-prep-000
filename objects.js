@@ -1,7 +1,7 @@
 var objects = {playlist}
 var songTitle = { [objects]: 'songTitle' }
 var artistName = { [objects]: 'artistName' }
-var playlist = new Object({artistName: songTitle})
+var playlist = {artistName: songTitle}
 
 
 
